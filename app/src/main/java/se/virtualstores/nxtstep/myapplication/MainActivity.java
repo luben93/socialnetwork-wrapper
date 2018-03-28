@@ -43,5 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
         //todo handle notifications
 
+        //todo add top buttons (home messsenger search, top)
+
     }
 }
