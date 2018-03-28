@@ -37,5 +37,11 @@ public class MainActivity extends AppCompatActivity {
 
         myWebView.loadUrl("https://www.facebook.com");
 
+        //todo handle external links
+
+        //todo handle back button
+
+        //todo handle notifications
+
     }
 }
